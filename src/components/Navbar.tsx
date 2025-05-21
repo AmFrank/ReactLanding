@@ -23,6 +23,9 @@ const Navbar = () => {
             <a href="#testimonials" className="text-hire-gray hover:text-hire-blue transition-colors">
               Testimonials
             </a>
+            <Link to="/our-team" className="text-hire-gray hover:text-hire-blue transition-colors">
+              Our Team
+            </Link>
             <a href="#contact" className="text-hire-gray hover:text-hire-blue transition-colors">
               Contact
             </a>
